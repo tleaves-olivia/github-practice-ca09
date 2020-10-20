@@ -204,3 +204,4 @@
 |173| Ellie Tsao| 10  | EllieTsao|<https://github.com/EllieTsao/my_website.git>  |https://ellietsao.netlify.app/             |2020-10-20  
 |174| Zihan Xu |5| Catherine-LBS | https://github.com/Catherine-LBS/mywebsite-Catherine | https://awesome-catherine-website.netlify.app/ | 2020-10-20
 |175| Pedro Teixeira Duarte |5| PTD1995 | <https://github.com/PTD1995/mywebsite1> | https://websitepedrotd.netlify.app/ | 2020-10-20
+|176| Tommaso Manara |2| TommasoManara1 | <https://github.com/TommasoManara1> | https://tommaso-manara-website.netlify.app/ | 2020-10-20
