@@ -200,3 +200,4 @@
 |169| Aida Chushkina |13| aida-chushkina | <https://github.com/aida-chushkina/my_website_version_2> | https://aida-website2020.netlify.app/ | 2020-10-20
 |170| Kateryna Tarasova |8| katerina1414 | <https://github.com/katerina1414/my_website> | https://kateryna-tarasova.netlify.app | 2020-10-20
 |171| David Blrtsyan |3| Blrtsyan | <https://github.com/Blrtsyan/mywebsite1> | https://david-blrtsyan-mfa2021.netlify.app/ | 2020-10-20
+|172| Farhan Ali |13| farhan4050 | <https://github.com/farhan4050/my_website> | https://farhanmfa21.netlify.app/ | 2020-10-20
