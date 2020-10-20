@@ -198,4 +198,4 @@
 |167| Luana Totea | 14 | luanatotea| https://github.com/luanatotea | https://lmt-portofolio-website.netlify.app |2020-10-20|
 |168| Muslim Dashaev |28| mdashaev | <https://github.com/mdashaev/my_website.git> | https://mdashaev.netlify.app/ | 2020-10-20
 |169| Aida Chushkina |13| aida-chushkina | <https://github.com/aida-chushkina/my_website_version_2> | https://aida-website2020.netlify.app/ | 2020-10-20
-|171| David Blrtyan |3| Blrtsyan | <https://github.com/Blrtsyan/mywebsite1> | https://david-blrtsyan-mfa2021.netlify.app/ | 2020-10-20
+|171| David Blrtsyan |3| Blrtsyan | <https://github.com/Blrtsyan/mywebsite1> | https://david-blrtsyan-mfa2021.netlify.app/ | 2020-10-20
