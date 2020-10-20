@@ -53,7 +53,7 @@
 |21|Tianen Yao | 13 | TianenYao | <https://github.com/TianenYao/my_website> | <https://tianenyao-portfolio.netlify.app/> |2020-10-02 |
 |22|Napat Matchaseth | 18 | N-Matchaseth | <https://github.com/N-Matchaseth/my_website> | <https://napatmat.netlify.app/> |2020-10-02 |
 |23|Tarek Auf | 28 | tarek-auf | <https://github.com/tarek-auf/test> | <https://tarek-auf.netlify.app/> |2020-10-02 |
-|24|Hugo Huere Alvarado | 33 | Hugo-Huere-Alvarado | <https://github.com/Hugo-Huere-Alvarado/my_website_final.git> | <https://hugo-huerealvarado-lbs.netlify.app/> |2020-10-03 |
+|24|Hugo Huere Alvarado | 33 | Hugo-Huere-Alvarado | <https://github.com/Hugo-Huere-Alvarado/my_website> | <https://hugo-huere-alvarado-portfolio.netlify.app> |2020-10-03 |
 |25|Mark Negodyuk   | 8   | MNegodyuk |<https://github.com/MNegodyuk/my_website>   |<https://mnegodyuk.netlify.app/>        |2020-10-03 
 |26|Pingchuan Tian   | 6   | Pingchuan-Tian |<https://github.com/Pingchuan-Tian/my_website>   |<https://pingchuan-tian.netlify.app/>        |2020-10-03 
 |27|Cathy-Yuanmeng-Gu | 17 | cathy-gu |<https://github.com/cathy-gu/my_website_final>   | <https://yuanmeng-cathy-gu.netlify.app>        |2020-10-04
@@ -204,4 +204,4 @@
 |173| Ellie Tsao| 10  | EllieTsao|<https://github.com/EllieTsao/my_website.git>  |https://ellietsao.netlify.app/             |2020-10-20  
 |174| Zihan Xu |5| Catherine-LBS | https://github.com/Catherine-LBS/mywebsite-Catherine | https://awesome-catherine-website.netlify.app/ | 2020-10-20
 |175| Pedro Teixeira Duarte |5| PTD1995 | <https://github.com/PTD1995/mywebsite1> | https://websitepedrotd.netlify.app/ | 2020-10-20
-|176| Tommaso Manara |2| TommasoManara1 | <https://github.com/TommasoManara1> | https://tommaso-manara-website.netlify.app/ | 2020-10-20
+|176| Eudald Puig |19| Eudald-Puig | <https://github.com/Eudald-Puig/my_website> | https://eudald-puig-mfa.netlify.app/ | 2020-10-20
