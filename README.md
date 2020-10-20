@@ -180,7 +180,7 @@
 |149| Antonia Maidl |33| antoniamaidl | <https://github.com/antoniamaidl/hello-world> | https://antoniamaidl.netlify.app | 2020-10-19
 |150| Rithika Satish |21| Rithikanandana3 | <https://github.com/Rithikanandana3/My-website.git> | https://rithikasatishwebsite.netlify.app/ | 2020-10-19
 |151| Tung Nguyen |21| huutung1103 | <https://github.com/huutung1103> | https://tungnguyen1.netlify.app/ | 2020-10-19
-|152| Emmanuel Zheng |31| emmanuelzheng | https://github.com/Emmanuelzhg/Website21 | hhttps://emmanuelzheng.netlify.app/ | 2020-10-19
+|152| Emmanuel Zheng |31| emmanuelzheng | https://github.com/Emmanuelzhg/Website21 | https://emmanuelzheng.netlify.app/ | 2020-10-19
 |153| Tung Nguyen |16| huutung1103 | <https://github.com/huutung1103> | https://tungnguyen1.netlify.app/ | 2020-10-19
 |154|Pavle Zoric|16|pavle97|<https://github.com/pavle97/my_website.git>|<https://pavlezoric.netlify.app/>|2020-10-19
 |155| Balint Szutor |19 | SzuBalint | <https://github.com/SzuBalint/DataWebsite> | https://bszutorportfolio.netlify.app/ | 2020-10-20
@@ -195,5 +195,5 @@
 |164| Ayush Agrawal |31| ayushlbs | <https://github.com/ayushlbs/my_website> | https://ayushsportfolio.netlify.app/ | 2020-10-20
 |165| Philipp Permyakov |29| Philipp-Permyakov | <https://github.com/Philipp-Permyakov/my_website> | https://philipp-permyakov-portfolio.netlify.app/ | 2020-10-20
 |166| Sarah Jiang |7| sarahjya | <https://github.com/sarahjya/my_website.git> | https://sarahyianjiangportfolio.netlify.app/ | 2020-10-20
-|167| Muslim Dashaev |28| mdashaev | <https://github.com/mdashaev/my_website.git> | https://mdashaev.netlify.app/ | 2020-10-20
-
+|167| Luana Totea | 14 | luanatotea| https://github.com/luanatotea | https://lmt-portofolio-website.netlify.app |2020-10-20|
+|168| Muslim Dashaev |28| mdashaev | <https://github.com/mdashaev/my_website.git> | https://mdashaev.netlify.app/ | 2020-10-20
