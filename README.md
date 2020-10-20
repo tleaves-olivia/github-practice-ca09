@@ -201,4 +201,7 @@
 |170| Kateryna Tarasova |8| katerina1414 | <https://github.com/katerina1414/my_website> | https://kateryna-tarasova.netlify.app | 2020-10-20
 |171| David Blrtsyan |3| Blrtsyan | <https://github.com/Blrtsyan/mywebsite1> | https://david-blrtsyan-mfa2021.netlify.app/ | 2020-10-20
 |172| Farhan Ali |13| farhan4050 | <https://github.com/farhan4050/my_website> | https://farhanmfa21.netlify.app/ | 2020-10-20
-|173| Eudald Puig |13| Eudald-Puig | <https://github.com/Eudald-Puig/my_website> | https://eudald-puig-mfa.netlify.app/ | 2020-10-20
+|173| Eudald Puig |19| Eudald-Puig | <https://github.com/Eudald-Puig/my_website> | https://eudald-puig-mfa.netlify.app/ | 2020-10-20
+|174| Ellie Tsao| 10  | EllieTsao|<https://github.com/EllieTsao/my_website.git>  |https://ellietsao.netlify.app/             |2020-10-20  
+|175| Zihan Xu |5| Catherine-LBS | https://github.com/Catherine-LBS/mywebsite-Catherine | https://awesome-catherine-website.netlify.app/ | 2020-10-20
+
