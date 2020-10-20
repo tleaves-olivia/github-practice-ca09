@@ -178,7 +178,7 @@
 |147| Frederic von Abercron   |2| FredericvonAbercron | <https://github.com/FredericvonAbercron/my_website> |<https://https://fredericvonabercron.netlify.app/>       |2020-10-19 
 |148| Marc Brothier |36| marcbrothier | https://myportfolio-marcbrothier.netlify.app/ | https://myportfolio-marcbrothier.netlify.app/ | 2020-10-19
 |149| Antonia Maidl |33| antoniamaidl | <https://github.com/antoniamaidl/hello-world> | https://antoniamaidl.netlify.app | 2020-10-19
-|150| Rithika Satish |21| Rithikanandana3 | <https://github.com/Rithikanandana3/My-website.git> | https://rithikasatishwebsite.netlify.app/ | 2020-10-19
+|150| Rithika Satish |21| Rithikanandana3 | <https://github.com/Rithikanandana3/My_WEBSITE.git> | <https://rithikasatishwebsite.netlify.app> | 2020-10-19
 |151| Tung Nguyen |21| huutung1103 | <https://github.com/huutung1103> | https://tungnguyen1.netlify.app/ | 2020-10-19
 |152| Emmanuel Zheng |31| emmanuelzheng | https://github.com/Emmanuelzhg/Website21 | https://emmanuelzheng.netlify.app/ | 2020-10-19
 |153| Tung Nguyen |16| huutung1103 | <https://github.com/huutung1103> | https://tungnguyen1.netlify.app/ | 2020-10-19
@@ -200,4 +200,5 @@
 |169| Aida Chushkina |13| aida-chushkina | <https://github.com/aida-chushkina/my_website_version_2> | https://aida-website2020.netlify.app/ | 2020-10-20
 |170| Kateryna Tarasova |8| katerina1414 | <https://github.com/katerina1414/my_website> | https://kateryna-tarasova.netlify.app | 2020-10-20
 |171| David Blrtsyan |3| Blrtsyan | <https://github.com/Blrtsyan/mywebsite1> | https://david-blrtsyan-mfa2021.netlify.app/ | 2020-10-20
-|172 | Ellie Tsao| 10  | EllieTsao|<https://github.com/EllieTsao/my_website.git>  |https://ellietsao.netlify.app/             |2020-10-20  
+|172| Farhan Ali |13| farhan4050 | <https://github.com/farhan4050/my_website> | https://farhanmfa21.netlify.app/ | 2020-10-20
+|173| Ellie Tsao| 10  | EllieTsao|<https://github.com/EllieTsao/my_website.git>  |https://ellietsao.netlify.app/             |2020-10-20  
