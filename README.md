@@ -206,3 +206,4 @@
 |175| Pedro Teixeira Duarte |5| PTD1995 | <https://github.com/PTD1995/mywebsite1> | https://websitepedrotd.netlify.app/ | 2020-10-20
 |176| Tommaso Manara |2| TommasoManara1 | <https://github.com/TommasoManara1> | https://tommaso-manara-website.netlify.app/ | 2020-10-20
 |177| Eudald Puig |19| Eudald-Puig | <https://github.com/Eudald-Puig/my_website> | https://eudald-puig-mfa.netlify.app/ | 2020-10-20
+|178| August Marcan |31| AugustMarcan | <https://github.com/AugustMarcan/my_website.git> | https://august-bio.netlify.app/ | 2020-10-20
