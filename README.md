@@ -209,3 +209,4 @@
 |178| August Marcan |31| AugustMarcan | <https://github.com/AugustMarcan/my_website.git> | https://august-bio.netlify.app/ | 2020-10-20
 |179| Arun Afzali |17| aafzali1 | <https://github.com/aafzali1/Arun_Website> | https://aruns-website.netlify.app/ | 2020-10-20
 |180| Roswitha Trappe |14| Roswitha Trappe | <https://github.com/rtrappe/my_website> | https://quirky-swirles-05f82a.netlify.app | 2020-10-20
+|181| Pietro Gobbi |10| PietroGobbi | <https://github.com/PietroGobbi/my_website> | https://pietro-gobbi-portfolio.netlify.app/ | 2020-10-20
