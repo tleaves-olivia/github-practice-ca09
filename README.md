@@ -186,7 +186,7 @@
 |155| Balint Szutor |19 | SzuBalint | <https://github.com/SzuBalint/DataWebsite> | https://bszutorportfolio.netlify.app/ | 2020-10-20
 |156| Tomas Varga |30| tvarga-mfa2021 | <https://github.com/tvarga-mfa2021/My_website> | https://tomasvarga.netlify.app/ | 2020-10-20
 |157| Asharib Siddiqui |15| asharibsiddiqui | <https://github.com/asharibsiddiqui/my_website> | https://asharibsiddiqui.netlify.app/ | 2020-10-20
-|158| Olivia Wang |31| tleaves-Olivia | <https://github.com/tleaves-olivia/my_website> | https://oliviawang.netlify.app/ | 2020-10-20
+|158| Olivia Wang |31| tleaves-Olivia | <https://github.com/ayushlbs/oliviawang> | https://oliviawang2.netlify.app/ | 2020-10-20
 |159| Walter Li |20| walterlcf | <https://github.com/waltelcf/my_website> | https://walterli.netlify.app/ | 2020-10-20
 |160| Pablo Carrera Lorenzo |22| carrerapcl | <https://github.com/carrerapcl/my_website.git> | https://pablocarrera.netlify.app/ | 2020-10-20
 |161| Yiding Liu(Carson) |6| yiding-carson | https://github.com/yiding-carson/my_website.git> | https://yiding-carson.netlify.app/ | 2020-10-20
