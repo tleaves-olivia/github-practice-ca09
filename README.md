@@ -135,7 +135,7 @@
 |103|Fabio Bodenmann|25|fabio-bodenmann | <https://github.com/fabio-bodenmann/my_website> | <https://fabio-portfolio.netlify.app/> |2020-10-14
 |104|Federico Carrara|24|FedericoC22 | <https://github.com/FedericoC22/my_website> | <https://federico-carrara-portfolio.netlify.app/> |2020-10-14
 |105|Robert Carollo|5|robbiecarollo | <https://github.com/robbiecarollo/my_website> | <https://robertlondon.netlify.app> |2020-10-14
-|107|Ilinca Ostahie|26|IlincaOstahie | <https://github.com/IlincaOstahie/my_website> | <https://ilincas-website.netlify.app> |2020-10-14
+|107|Ilinca Ostahie|26|IlincaOstahie | <https://github.com/IlincaOstahie/my_website> | <https://websiteilinca.netlify.app> |2020-10-14
 |108|Julien Canestrier|20|JCanestrier| <https://github.com/JCanestrier/my_website> | <https://julien-canestrier.netlify.app/> |2020-10-15
 |109|Johanna Henriksson|3|johanna97| <https://github.com/JohannaHen/Website3> | <https://app.netlify.com/sites/johanna97>|2020-10-15
 |110|Hans-Christian Preyer|22|HCPreyer|https://github.com/HCPreyer/my.website| https://hans-christianpreyer.netlify.app/ |2020-10-15
